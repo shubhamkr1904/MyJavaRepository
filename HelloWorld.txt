@@ -1,6 +1,6 @@
 class HelloWorld
 {
-main(){
-System.out.println("Hello");
+public static void main(String[] shubh){
+System.out.println("HelloWorld....!!!");
 }
 }
